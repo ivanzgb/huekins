@@ -1,0 +1,19 @@
+{
+  "name": "huekins",
+  "version": "0.0.1",
+  "description": "Jenkins to Hue",
+  "author": "",
+  "license": "BSD",
+  "bin": {
+    "huekins": "main.js"
+  },
+  "dependencies": {
+    "node-hue-api": "~0.2.3",
+    "jenkins-api": "~0.2.3",
+    "nomnom": "~1.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ivanzgb/huekins.git"
+  }
+}
